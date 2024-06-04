@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Naga Ramya Gurrala</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer currently pursuing  masters in computer science</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaramya1531-tech&label=Profile%20views&color=0e75b6&style=flat" alt="nagaramya1531-tech" /> </p>
 
-- 🌱 I’m currently learning **Data Science,Machine Learning,Data Structures**
+- 🌱 I’m currently learning **Data Science,Machine Learning,Data Structures and Alogorithms**
 
 - 💬 Ask me about **Python,Java,Data Structures**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nagaramya-gurrala-4482ba185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaramya-gurrala-4482ba185/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nagaramyagurrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaramya-gurrala-4482ba185/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nagaramya1531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nagaramya1531" height="30" width="40" /></a>
 </p>
 
