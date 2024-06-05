@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science,Machine Learning,Data Structures and Alogorithms**
 
-- 💬 Ask me about **Python,Java,Data Structures**
+- 💬 Ask me about **Python,Java,Data Structures,Machine Learning**
 
 - 📫 How to reach me **ngurrala@binghamton.edu**
 
