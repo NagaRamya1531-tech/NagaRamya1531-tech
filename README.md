@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python,Java,Data Structures,Machine Learning**
 
-- 📫 How to reach me **ngurrala@binghamton.edu**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
