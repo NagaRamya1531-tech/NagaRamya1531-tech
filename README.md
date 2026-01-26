@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nagaramyagurrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaramya-gurrala-4482ba185/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nagaramya109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaramya-gurrala-4482ba185/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nagaramya1531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nagaramya1531" height="30" width="40" /></a>
 </p>
 
