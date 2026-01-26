@@ -105,9 +105,7 @@ src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gi
 <a href="https://www.linkedin.com/in/nagaramya109/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
-<a href="https://www.hackerrank.com/nagaramya1531" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
-</a>
+
 </p>
 
 ---
