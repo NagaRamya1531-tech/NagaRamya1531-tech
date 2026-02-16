@@ -12,7 +12,7 @@ src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gi
 
 ## 👩‍💻 About Me
 
-- 🔹 Machine Learning Engineer with **5+ years of experience**
+- 🔹 Machine Learning Engineer 
 - 🔹 Built **production-scale ML systems** across payments & e-commerce
 - 🔹 Expertise in **Fraud Detection, Recommendations, Real-time ML**
 - 🔹 Hands-on with **LLMs, RAG pipelines, Agent workflows**
