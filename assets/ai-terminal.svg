@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="286" viewBox="0 0 680 286" role="img" aria-labelledby="t d">
+<title id="t">AI engineering terminal</title><desc id="d">A terminal showing a machine learning pipeline loading data, building, evaluating and deploying an API.</desc>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10182e"/><stop offset="1" stop-color="#080d19"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1b2340"/><stop offset="1" stop-color="#17152e"/></linearGradient></defs>
+<rect x="2" y="2" width="676" height="282" rx="18" fill="url(#panel)" stroke="#9a70f5" stroke-width="2"/>
+<path d="M20 3 H660 Q677 3 677 20 V52 H3 V20 Q3 3 20 3Z" fill="url(#bar)"/>
+<circle cx="28" cy="27" r="8" fill="#ff6268"/><circle cx="54" cy="27" r="8" fill="#ffc44e"/><circle cx="80" cy="27" r="8" fill="#51cf7c"/>
+<text x="220" y="33" font-family="monospace" font-size="16" fill="#c5cbe0">naga-ramya@ai-engineer: ~</text>
+<g font-family="monospace" font-size="20">
+ <text x="28" y="91" fill="#7ee6a7">$ python run_pipeline.py</text>
+ <text x="48" y="132" fill="#cdd6eb">✓  Loading data...</text>
+ <text x="48" y="171" fill="#cdd6eb">✓  Building ML/LLM pipeline...</text>
+ <text x="48" y="210" fill="#cdd6eb">✓  Running evaluations...</text>
+ <text x="48" y="249" fill="#cdd6eb">✓  Deploying as API...</text>
+</g>
+<rect x="28" y="258" width="315" height="0" rx="7" fill="#5b3bb0"/>
+<text x="390" y="267" font-family="monospace" font-size="13" fill="#8f83b8">P95 latency · evals · monitoring</text>
+</svg>
