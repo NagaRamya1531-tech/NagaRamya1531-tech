@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ai-engineer-loop.gif" width="160" alt="Anime-inspired AI engineer working through an ML pipeline" />
+</p>
+
 # Naga Ramya Gurrala
 
 **AI / Machine Learning Engineer · Applied AI · ML Systems**
